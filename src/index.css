@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+@theme {
+  --color-saphir: #0f172a;
+  --color-saphir-light: #1e293b;
+  --color-emerald: #10b981;
+  --color-emerald-light: #34d399;
+  --color-cyan: #06b6d4;
+  --color-cyan-light: #22d3ee;
+  
+  --color-background: #f8fafc; /* Blanc cassé / gris ultra-léger */
+  
+  --font-sans: 'Inter', 'Roboto', sans-serif;
+}
+
+@layer base {
+  body {
+    @apply bg-background text-saphir font-sans antialiased;
+  }
+}

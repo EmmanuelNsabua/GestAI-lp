@@ -1,0 +1,109 @@
+===============================================================================
+BRIEF CRÉATIF & VISION DESIGN : LANDING PAGE "CONVERSATIONAL STOCK"
+Objectif principal : Vulgariser le produit pour le rendre universellement compréhensible
+Mission : Le beau, le communicatif et l'évidence visuelle
+===============================================================================
+
+À L'ATTENTION DE L'IA DÉVELOPPEUR :
+
+Tu vas concevoir l'interface d'une landing page pour un produit révolutionnaire : 
+une application de gestion de stock pour grossistes qui se pilote entièrement 
+par la voix et le texte (interface conversationnelle).
+
+-------------------------------------------------------------------------------
+LE MANDAT SUPRÊME : LA VULGARISATION UNIVERSELLE
+-------------------------------------------------------------------------------
+Le premier objectif de cette landing page n'est pas technique, il est humain. 
+Tu dois vulgariser ce concept de haute technologie pour qu'il soit instantanément 
+compris par n'importe qui, peu importe son origine, sa culture, son âge ou son 
+degré d'alphabétisation numérique. 
+
+L'interface doit éliminer tout jargon. Le design lui-même doit faire office de 
+traducteur : en un coup d'œil, un grossiste pressé qui n'a jamais utilisé d'IA 
+de sa vie doit se dire : "Ah ! C'est comme envoyer un message à un ami, mais 
+pour mes marchandises." La simplicité visuelle doit sauter aux yeux avant même 
+que le premier mot ne soit lu.
+
+-------------------------------------------------------------------------------
+1. L'ATMOSPHÈRE VISUELLE (DESIGN LANGUAGE)
+-------------------------------------------------------------------------------
+* LES COULEURS : Utilise une palette qui inspire la structure, la sécurité et 
+  la haute technologie humaine. 
+  - Fond : Très propre, blanc cassé ou gris ultra-léger pour maximiser le confort 
+    visuel et la clarté.
+  - Couleur principale : Un Bleu Profond/Saphir (évoquant la rigueur logistique).
+  - Couleur d'accent : Un Vert Émeraude Vibrant ou un Cyan Lumineux, utilisé 
+    uniquement pour l'IA et les boutons d'action (CTA), symbolisant la fluidité 
+    et l'action.
+
+* LA TYPOGRAPHIE : Une police moderne, géométrique mais très accueillante (du 
+  style Inter ou Roboto). Les titres doivent être massifs et audacieux pour 
+  imposer le message avec force.
+
+* L'ESPACE : Donne de l'air. Évite à tout prix le désordre visuel qui rappellerait 
+  les tableurs complexes que nos utilisateurs détestent. Chaque section doit 
+  respirer de manière à apaiser l'esprit du visiteur.
+
+-------------------------------------------------------------------------------
+2. SECTION PAR SECTION : INTENTIONS ET ANIMATIONS
+-------------------------------------------------------------------------------
+
+A. L'EN-TÊTE (HERO SECTION) : L'effet d'évidence immédiate
+* À GAUCHE (LE MESSAGE) : Le titre choc doit être le point focal immédiat. 
+  Le bouton d'action principale [Rejoindre la liste d'attente] doit être l'élément 
+  le plus magnétique de la page, avec un léger effet de surbrillance au survol 
+  pour inviter naturellement au clic.
+* À DROITE (LA DÉMO UNIVERSELLE) : Ne mets pas une photo générique d'entrepôt. 
+  Conçois une illustration interactive ou une interface d'application épurée 
+  et animée. On doit y voir une fausse bulle de chat où s'écrit dynamiquement 
+  (effet typing) une phrase ultra-simple : "Quels sont nos produits en surstock ?", 
+  suivie d'une réponse de l'IA instantanée sous forme de mini-graphique très coloré 
+  et imagé. Cette animation doit être universelle : voir le texte s'écrire et le 
+  graphique apparaître explique le produit en 2 secondes, sans barrière de langue.
+
+B. LE PROBLÈME : Le contraste de la frustration
+* L'ambiance visuelle change subtilement ici. Utilise une section légèrement 
+  plus sombre ou texturée pour matérialiser visuellement la lourdeur administrative.
+* Présente les frustrations des grossistes sous forme de petites cartes. 
+  Au survol de la souris, ces cartes doivent avoir une micro-animation de recul 
+  (un effet de rejet) pour appuyer visuellement le fait que ce sont des problèmes 
+  dont on veut se débarrasser définitivement.
+
+C. LA SOLUTION & FONCTIONNALITÉS : La clarté en mouvement
+* Retour à une lumière éclatante et rassurante. Présente les fonctionnalités 
+  sous forme de grille aérée ou de flux vertical simple.
+* Chaque fonctionnalité (Chat, Réapprovisionnement, Finance, Litiges) doit être 
+  accompagnée d'une icône sur-mesure très stylisée et explicite (une bulle de 
+  dialogue, un carton qui se remplit, etc.) pour guider l'œil de manière intuitive.
+* L'INTERACTIVITÉ CLÉ : Lorsque l'utilisateur fait défiler la page (scroll), 
+  les blocs de texte et leurs icônes doivent apparaître avec une transition fluide 
+  de bas en haut (fade-in), donnant une sensation de légèreté, de modernité et 
+  de facilité d'utilisation.
+
+D. L'APPEL À L'ACTION FINAL : L'entonnoir de conversion rassurant
+* Le bas de page doit se recentrer radicalement sur l'essentiel. Supprime toute 
+  distraction visuelle.
+* Crée un bloc central épuré, enveloppé d'un dégradé de couleur très doux en 
+  arrière-plan (rappelant l'énergie bienveillante de l'IA) qui englobe le champ 
+  de saisie de l'e-mail.
+* Le champ de texte pour l'e-mail doit donner une sensation de confort absolu 
+  à la saisie (bordures douces, changement de couleur net et interactif au clic).
+
+-------------------------------------------------------------------------------
+3. PHILOSOPHIE D'EXÉCUTION POUR LE CODE
+-------------------------------------------------------------------------------
+* FLUIDITÉ AVANT TOUT : Les animations ne doivent jamais ralentir la page ni 
+  distraire l'utilisateur. Elles doivent être subtiles (durée de transition 
+  entre 200ms et 300ms maximum). Elles sont là pour guider l'œil et rendre le 
+  concept vivant, pas pour faire une démonstration technique.
+* ACCESSIBILITÉ & MOBILE : N'oublie pas que les grossistes consultent souvent 
+  leur téléphone sur le terrain, entre deux palettes dans un entrepôt ou dans le 
+  bruit d'un marché. L'expérience sur mobile doit être une colonne parfaite, 
+  sans fioritures, ultra-lisible, avec des boutons larges et faciles à presser 
+  avec le pouce.
+
+Ta mission est claire : fais en sorte que quiconque visite cette page, quelle que 
+soit sa langue ou sa culture logistique, comprenne en un éclair que l'avenir de 
+la gestion de stock est arrivé et qu'il est accessible à tous. Traduis cette 
+vision en un design vivant, percutant, humain et mémorable.
+===============================================================================

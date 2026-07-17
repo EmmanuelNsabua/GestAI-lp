@@ -1,0 +1,116 @@
+===============================================================================
+DOCUMENT DE CADRAGE : STRUCTURE ET CONTENU DE LA LANDING PAGE
+Produit : Application de gestion de stock conversationnelle par IA pour Grossistes
+Auteur : Expert Marketing & Consultant Produit
+===============================================================================
+
+1. L'EN-TÊTE (HERO SECTION) — Capturer l'attention en 3 secondes
+-------------------------------------------------------------------------------
+* Objectif : Faire comprendre immédiatement le produit et à qui il s'adresse.
+
+Titre Choc : 
+"Ne gérez plus votre stock. Parlez-lui."
+
+Sous-titre : 
+"La première application de gestion de stock par Intelligence Artificielle 
+conçue exclusivement pour les grossistes. Pilotez vos flux, passez vos 
+commandes fournisseurs et analysez vos marges par simple message texte 
+ou vocal."
+
+Appel à l'action principal (Bouton CTA) : 
+[ Rejoindre la liste d'attente – Accès Prioritaire ]
+
+Preuve sociale / Rassurance (Sous le bouton) : 
+* Rejoignez les 150 grossistes qui co-conçoivent l'avenir de la logistique.
+
+
+2. LE PROBLÈME — Valider la douleur du grossiste
+-------------------------------------------------------------------------------
+* Objectif : Montrer que vous comprenez parfaitement leur quotidien difficile.
+
+"Trop de tableurs, trop d'écrans, pas assez de temps."
+
+En tant que grossiste, votre stock bouge à la minute près. Entre les ruptures 
+de stock invisibles qui vous font perdre des ventes et les calculs 
+d'apothicaire pour savoir quand recommander au bon prix, vous passez plus de 
+temps derrière un écran que sur votre cœur de métier. Les logiciels actuels 
+sont trop complexes, rigides et demandent des heures de formation.
+
+
+3. LA SOLUTION — Présenter la révolution "Conversational Stock"
+-------------------------------------------------------------------------------
+* Objectif : Introduire l'application comme le Saint Graal de la simplicité.
+
+Découvrez [Nom de votre application] : Votre adjoint logistique disponible 24h/24.
+
+Imaginez un assistant expert qui connaît votre entrepôt par cœur, automatise 
+vos tâches répétitives et à qui vous pouvez donner des ordres en langage 
+naturel, exactement comme si vous envoyiez un SMS à un collègue.
+
+
+4. LES FONCTIONNALITÉS CLÉS — Ce que l'application fait pour eux
+-------------------------------------------------------------------------------
+* Objectif : Démontrer la valeur d'usage sans jargon technique.
+
+* LE CHAT OPÉRATIONNEL : 
+  Plus aucun menu complexe. Écrivez ou dites simplement : "Quels sont nos 
+  produits en surstock dans l'allée B ?" ou "Génère une remise de 10% sur le 
+  lot de riz qui expire bientôt". L'application s'exécute instantanément.
+
+* LE RÉAPPROVISIONNEMENT INTELLIGENT ET SÉCURISÉ : 
+  L'application anticipe vos ruptures en analysant vos historiques. Elle rédige 
+  elle-même le bon de commande pour votre fournisseur. Vous n'avez plus qu'à 
+  valider d'un clic dans le chat.
+
+* L'ANALYSE FINANCIÈRE INSTANTANÉE : 
+  Demandez-lui "Quelle a été notre meilleure marge brute cette semaine ?". 
+  L'IA compile vos données de ventes et d'achats pour vous répondre avec un 
+  chiffre précis en une seconde. Plus besoin d'exporter des fichiers Excel.
+
+* GESTION DES LITIGES SUR LE POUCE : 
+  Un colis arrive endommagé ? Prenez une photo, envoyez-la dans le chat avec le 
+  message : "Gère le retour avec le fournisseur X". L'IA gèle le stock 
+  défectueux et envoie la réclamation.
+
+
+5. LES AVANTAGES POUR LES GROSSISTES — Le ROI (Retour sur Investissement)
+-------------------------------------------------------------------------------
+* Objectif : Faire basculer le prospect de la curiosité à l'intérêt commercial.
+
+* ZÉRO FORMATION REQUISE : 
+  Si vos équipes savent utiliser WhatsApp ou envoyer un SMS, elles savent 
+  utiliser votre application. Prise en main en 5 minutes chrono.
+
+* RÉDUCTION DES RUPTURES DE STOCK DE 35% : 
+  Grâce à l'anticipation passive de l'IA qui surveille vos seuils jour et nuit.
+
+* GAIN DE TEMPS MASSIF : 
+  Liberez jusqu'à 2 heures par jour de paperasse administrative et de saisie 
+  informatique pour vous concentrer sur vos clients.
+
+
+6. APPEL À L'ACTION FINAL & VALIDATION DE COMMUNAUTÉ
+-------------------------------------------------------------------------------
+* Objectif : Créer de l'engagement et mesurer l'intérêt réel.
+
+Le futur de la vente en gros s'écrit avec vous.
+
+Nous finalisons actuellement le développement de l'application. Nous recherchons 
+un groupe restreint de commerçants grossistes ambitieux pour tester la version 
+bêta, nous faire leurs retours et adapter l'outil à leurs besoins réels du 
+terrain.
+
+Entrez votre e-mail pour réserver votre place et façonner l'outil qui va 
+libérer votre quotidien.
+
+[ Votre adresse e-mail ] -> **[ Demander mon accès bêta testeur ]**
+
+
+-------------------------------------------------------------------------------
+CONSEIL DU MARKETEUR POUR VOTRE PHASE DE TEST :
+Pour valider si la communauté des grossistes veut vraiment adopter ce produit, 
+mesurez le taux de conversion sur cette page (le nombre de personnes qui 
+laissent leur e-mail par rapport au nombre de visiteurs uniques). Si vous 
+dépassez les 10% de conversion sur cette cible réputée difficile à capter, 
+vous tenez un excellent produit (Product-Market Fit).
+===============================================================================
