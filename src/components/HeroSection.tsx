@@ -62,9 +62,9 @@ export const HeroSection = () => {
             >
               <a 
                 href="#waitlist" 
-                className="inline-flex items-center justify-center px-8 py-4 border border-transparent text-base font-medium rounded-xl text-white bg-saphir hover:bg-saphir-light shadow-lg hover:shadow-xl transition-all duration-300 ease-in-out transform hover:-translate-y-1"
+                className="inline-flex items-center justify-center px-8 py-4 border border-transparent text-base font-semibold rounded-xl text-white bg-saphir hover:bg-saphir-light shadow-lg hover:shadow-xl transition-all duration-300 ease-in-out transform hover:-translate-y-1 whitespace-nowrap"
               >
-                Rejoindre la liste d'attente – Accès Prioritaire
+                Accès bêta gratuit →
               </a>
               <p className="mt-3 text-sm text-saphir-light/70 font-medium">
                 Rejoignez les centaines de commerçants qui co-conçoivent l'avenir de la logistique.
