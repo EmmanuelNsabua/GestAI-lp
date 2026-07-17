@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
+import { ArrowRight } from 'lucide-react';
 
 export const HeroSection = () => {
   const [typedText, setTypedText] = useState('');
@@ -64,7 +65,8 @@ export const HeroSection = () => {
                 href="#waitlist" 
                 className="inline-flex items-center justify-center px-8 py-4 border border-transparent text-base font-medium rounded-xl text-white bg-saphir hover:bg-saphir-light shadow-lg hover:shadow-xl transition-all duration-300 ease-in-out transform hover:-translate-y-1"
               >
-                Devenir testeur →
+                Devenir testeur
+                <ArrowRight className="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" />
               </a>
               <p className="mt-3 text-sm text-saphir-light/70 font-medium">
                 Rejoignez les centaines de commerçants qui co-conçoivent l'avenir de la logistique.
